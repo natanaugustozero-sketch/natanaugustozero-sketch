@@ -8,6 +8,8 @@ Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**
 - 🐍 **Python científico:** fundamentos para simulação de sistemas físicos e químicos
 - ⚛️ **Físico-Química Computacional:** preparação para modelagem molecular e química quântica
 - 📐 **Física Teórica:** base em mecânica quântica, termodinâmica e simulações numéricas
+- 🧪 **Química:** Aprofundamento e expansão de conhecimento
+- 🟰 **Matemática:** Aprofundamento e expansão de conhecimento
 - 🇩🇪 **Alemão:** certificação B1 (Goethe-Institut) — porta de entrada para pesquisa na Alemanha
 - 🇺🇸 **Inglês:** em formação para leitura técnica e artigos científicos
 
