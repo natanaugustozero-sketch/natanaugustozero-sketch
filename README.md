@@ -24,7 +24,7 @@ Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**
 - Algoritmos quânticos com Qiskit
 
 ## 📫 Onde me encontrar:
-- GitHub: [@natanaugustozero-sketch](https://github.com/natanaugustozero-sketch)
+- GitHub: [natan-augusto](https://github.com/natan-augusto)
 - LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto-042166400/)
 
 ---
