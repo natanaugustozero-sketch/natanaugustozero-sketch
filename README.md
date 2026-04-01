@@ -16,13 +16,6 @@ Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**
 - 🇩🇪 **Alemão:** certificação B1 (Goethe-Institut) — porta de entrada para pesquisa na Alemanha
 - 🇺🇸 **Inglês:** em formação para leitura técnica e artigos científicos
 
-
-## 📌 Projetos futuros:
-- Simulador de queda livre (em andamento)
-- Simulação de órbitas planetárias (gravitação newtoniana)
-- Modelagem de reações químicas com RDKit
-- Algoritmos quânticos com Qiskit
-
 ## 📫 Onde me encontrar:
 - GitHub: [natan-augusto](https://github.com/natan-augusto)
 - LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto-042166400/)
