@@ -1,4 +1,7 @@
-# Natan Augusto
+<div align="center">
+  
+  # Natan Augusto
+</div>
 
 Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**. Meu objetivo é me tornar **Físico-Químico** e **Físico Teórico**, unindo a química quântica à física teórica para explorar simulações moleculares e fenômenos fundamentais.
 
