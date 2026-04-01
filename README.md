@@ -18,10 +18,9 @@ Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**
 
 ## 📫 Onde me encontrar:
 - GitHub: [@natanaugustozero-sketch](https://github.com/natanaugustozero-sketch)
-- LinkedIn: (em breve)
+- LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto-042166400/)
 
 ---
 
 *Construindo a base para a física computacional e a pesquisa em deep tech.*
-
 *Construindo a base para a ciência do futuro.*
