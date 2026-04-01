@@ -1,16 +1,27 @@
-## Hi there 👋
+# Natan Augusto
 
-<!--
-**natanaugustozero-sketch/natanaugustozero-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**. Meu objetivo é me tornar **Físico-Químico** e **Físico Teórico**, unindo a química quântica à física teórica para explorar simulações moleculares e fenômenos fundamentais.
 
-Here are some ideas to get you started:
+## 🚀 O que estou construindo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Python científico:** fundamentos para simulação de sistemas físicos e químicos
+- ⚛️ **Físico-Química Computacional:** preparação para modelagem molecular e química quântica
+- 📐 **Física Teórica:** base em mecânica quântica, termodinâmica e simulações numéricas
+- 🇩🇪 **Alemão:** certificação B1 (Goethe-Institut) — porta de entrada para pesquisa na Alemanha
+- 🇺🇸 **Inglês:** em formação para leitura técnica e artigos científicos
+
+## 📌 Projetos futuros:
+- Simulador de queda livre (em andamento)
+- Simulação de órbitas planetárias (gravitação newtoniana)
+- Modelagem de reações químicas com RDKit
+- Algoritmos quânticos com Qiskit
+
+## 📫 Onde me encontrar:
+- GitHub: [@natanaugustozero-sketch](https://github.com/natanaugustozero-sketch)
+- LinkedIn: (em breve)
+
+---
+
+*Construindo a base para a física computacional e a pesquisa em deep tech.*
+
+*Construindo a base para a ciência do futuro.*
