@@ -25,5 +25,3 @@ Hello! I am a science student specializing in **Physics, Chemistry, and Mathemat
 
 *Building the foundation for computational physics and deep tech research.*
 *Building the foundation for the science of the future.*
-
-Translated with DeepL.com (free version)
