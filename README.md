@@ -3,24 +3,27 @@
   # Natan Augusto
 </div>
 
-Olá! Sou estudante de ciências com foco em **Física, Química e Matemática**. Meu objetivo é me tornar **Físico-Químico** e **Físico Teórico**, unindo a química quântica à física teórica para explorar simulações moleculares e fenômenos fundamentais.
+Hello! I am a science student specializing in **Physics, Chemistry, and Mathematics**. My goal is to become a **Physical Chemist** and **Theoretical Physicist**, combining quantum chemistry with theoretical physics to explore molecular simulations and fundamental phenomena.
 
-## 🚀 O que estou construindo:
+## 🚀 What I’m working on:
 
-- 💻 **Comandos no Git:** Estudo em andamento sobre comandos Git
-- 🐍 **Python científico:** fundamentos para simulação de sistemas físicos e químicos
-- ⚛️ **Físico-Química Computacional:** preparação para modelagem molecular e química quântica
-- 📐 **Física Teórica:** base em mecânica quântica, termodinâmica e simulações numéricas
-- 🧪 **Química:** Aprofundamento e expansão de conhecimento
-- 🟰 **Matemática:** Aprofundamento e expansão de conhecimento
-- 🇩🇪 **Alemão:** certificação B1 (Goethe-Institut) — porta de entrada para pesquisa na Alemanha
-- 🇺🇸 **Inglês:** em formação para leitura técnica e artigos científicos
+- 💻 **Git Commands:** Ongoing study of Git commands
+- 🐍 **Scientific Python:** fundamentals for simulating physical and chemical systems
+- ⚛️ **Computational Physical Chemistry:** preparation for molecular modeling and quantum chemistry
+- 📐 **Theoretical Physics:** foundation in quantum mechanics, thermodynamics, and numerical simulations
+- 🧪 **Chemistry:** Deepening and expanding knowledge
+- 🟰 **Mathematics:** Deepening and expanding knowledge
+- 🇩🇪 **German:** B1 certification (Goethe-Institut) — gateway to research in Germany
+- 🇺🇸 **English:** currently training for technical reading and scientific articles
+- 📲 **Kotlin:** Scientific integration with Android applications
 
-## 📫 Onde me encontrar:
+## 📫 Where to find me:
 - GitHub: [natan-augusto](https://github.com/natan-augusto)
 - LinkedIn: [Natan Augusto](https://www.linkedin.com/in/natan-augusto-042166400/)
 
 ---
 
-*Construindo a base para a física computacional e a pesquisa em deep tech.*
-*Construindo a base para a ciência do futuro.*
+*Building the foundation for computational physics and deep tech research.*
+*Building the foundation for the science of the future.*
+
+Translated with DeepL.com (free version)
